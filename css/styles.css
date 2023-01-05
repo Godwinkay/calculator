@@ -1,0 +1,23 @@
+.container {
+    font-size: 3rem;
+}
+
+.row  {
+    border: 0.5px solid rgb(202, 199, 199);
+}
+
+.col-12 {
+    background-color: grey;
+    color: white;
+}
+
+.lg {
+    background-color: rgb(229, 227, 227);
+    border-left: 0.5px solid rgb(201, 198, 198);
+}
+
+.or {
+    background-color: rgb(255, 153, 0);
+    justify-content: center;
+    color: white;
+}
